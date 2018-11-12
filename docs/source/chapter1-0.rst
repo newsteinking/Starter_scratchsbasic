@@ -1,11 +1,11 @@
 Chapter 0: About
 ===================================
 
-  Python Intermediate Curriculm
+  Starter Scratch Basic  Curriculm
 
                         by sean
-   Base on  Python : Journey form Novice to Expert
-.. image:: ./img/chapter0_1.jpg
+   Base on  Coding Games in Scratch 
+.. image:: ./img/chapter0_1.png
 
 .. _default_args:
 
