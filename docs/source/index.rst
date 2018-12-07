@@ -21,9 +21,9 @@ Starter Scratch Basic
 .. toctree::
    :maxdepth: 4
 
-   chapter1-0
-   chapter1-1
-   chapter1-2
+   chapter1
+   chapter2
+   chapter3
 
 
 Indices and tables
