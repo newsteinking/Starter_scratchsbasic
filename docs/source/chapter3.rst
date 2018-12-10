@@ -1,4 +1,4 @@
-chapter 3: Star Hunter
+chapter 3: 스타헌터
 =======================
 
 
